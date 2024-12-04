@@ -1,5 +1,5 @@
 # smart-pool
-Make swimming pools easy to manage and open for interfacing with other systems. Particularly for scenarios where 'smart' means combining information from multiple independent sources and/or orchestrating multiple independent devices. Based around, but not limited to (Home Assistant)[https://www.home-assistant.io/] as the central controller.
+Make swimming pools easy to manage and open for interfacing with other systems. Particularly for scenarios where 'smart' means combining information from multiple independent sources and/or orchestrating multiple independent devices. Based around, but not necessarily limited to (Home Assistant)[https://www.home-assistant.io/] as the central controller.
 
 e.g. Scenarios directly related to the management of the pool:
 * Make sure the pool is always exactly balanced and ready for swimming.
