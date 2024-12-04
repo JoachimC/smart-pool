@@ -9,7 +9,7 @@ e.g. Scenarios directly related to the management of the pool:
 * Never run pool equipment when there is a grid outage and house is running off residential battery
 * Don't waste gas/power heating the pool if the weather forcast is for hot weather that will naturally heat the water over the next few days anyway
 
-And of course a multitude of scenarios enabled by connection with the greater Home Asssitant ecosystem including monitoring for usage etc, setting scene lighting etc.
+And of course a multitude of scenarios enabled by connection with the greater Home Assistant ecosystem including monitoring for usage etc, setting scene lighting etc.
 
 ## Candidate Plan
 
