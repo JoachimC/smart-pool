@@ -1,5 +1,5 @@
 # smart-pool
-Make swimming pools easy to manage and open for interfacing with other systems. Particularly for scenarios where 'smart' means combining information from multiple independent sources and/or orchestrating multiple independent devices. Based around, but not necessarily limited to (Home Assistant)[https://www.home-assistant.io/] as the central controller.
+Make swimming pools easy to manage and open for interfacing with other systems. Particularly for scenarios where 'smart' means combining information from multiple independent sources and/or orchestrating multiple independent devices. Based around, but not necessarily limited to [Home Assistant](https://www.home-assistant.io/) as the central controller.
 
 e.g. Scenarios directly related to the management of the pool:
 * Make sure the pool is always exactly balanced and ready for swimming.
@@ -13,7 +13,7 @@ And of course a multitude of scenarios enabled by connection with the greater Ho
 
 ## Candidate Plan
 
-* ESP2866 / ESP32 running (ESPHome)[https://esphome.io/]
+* ESP2866 / ESP32 running [ESPHome](https://esphome.io/)
 * Altas Scientific EZO ORP and pH sensors connected to the ESPHome device using UART or I<sup>2</sup>C interface
   * https://esphome.io/components/sensor/ezo.html
   * https://atlas-scientific.com/
@@ -53,8 +53,11 @@ Keeps the water pleasant for body contact - eyes, skin etc.
 
 Also some pool chemicals and treatments work best when the pool water is around specific optimum pH levels that generally align with comfortable swimming.
 
-Maintained as a (buffer)[https://en.wikipedia.org/wiki/Buffer_solution] around 7.4 by a balance of acid (Sulphuric Acid) and alkaline (Sodium (Bi-) Carbonate.
-  * acid is normally added as Sulfu 
+Maintained as a [buffer](https://en.wikipedia.org/wiki/Buffer_solution) around 7.4 by a balance of acid and alkaline.
+  * acid is normally added as liquid sulfuric acid.
+  * alkaline is normally added as a sodium (bi-) carbonate powder.
+
+Normally pH drifts down with environmental conditions so automated dosing of acid is desirable. 
 
 Measured with:
   * test strips
