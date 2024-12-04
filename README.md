@@ -57,7 +57,7 @@ Maintained as a [buffer](https://en.wikipedia.org/wiki/Buffer_solution) around 7
   * acid is normally added as liquid sulfuric acid.
   * alkaline is normally added as a sodium (bi-) carbonate powder.
 
-Normally pH drifts down with environmental conditions so automated dosing of acid is desirable. 
+Normally pH drifts up with environmental conditions so automated dosing of acid is desirable. 
 
 Measured with:
   * test strips
