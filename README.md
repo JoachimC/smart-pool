@@ -46,8 +46,6 @@ Measured with:
   * liquid drops
   * electronic ORP sensors (don't strictly measure chlorine but measure the oxidation potential of the water. Chlorine is an oxidising agent.)
 
-Stabliser - Cyanuric Acid - is often used to help chlorine last between doses. It binds to some of the chlorine and releases as the free chlorine is used up.
-
 #### pH
 Keeps the water pleasant for body contact - eyes, skin etc.
 
