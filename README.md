@@ -21,7 +21,7 @@ And of course a multitude of scenarios enabled by connection with the greater Ho
   * pool water temperature
   * 'roof' temperature for radiant solar heating/cooling systems
   * general environmental temperature/condition/forecast (could come from other sources like weather feeds)
-* Pumps, chlorinators, Heatpumps and others controlled using Home Assistant compatible smart GPOs, relays, smart plugs, or other control mechanisms. This should be flexible - anything Home Assistant compatible should be good for integration.
+* Pumps, chlorinators, Heatpumps and others controlled using Home Assistant compatible smart GPOs, relays, smart plugs, contactors, or other control mechanisms. This should be flexible - anything Home Assistant compatible should be good for integration.
 
 ## Other alternatives
 Find a 'smart enough' off-the-shelf pool controller that can be made smarter by either leveraging it's explicit external interfaces or interpolating scenarios by monitoring its power usage or other indirect 
