@@ -51,7 +51,7 @@ Keeps the water pleasant for body contact - eyes, skin etc.
 
 Also some pool chemicals and treatments work best when the pool water is around specific optimum pH levels that generally align with comfortable swimming.
 
-Maintained as a [buffer](https://en.wikipedia.org/wiki/Buffer_solution) around 7.4 by a balance of acid and alkaline.
+Maintained as a [buffer](https://en.wikipedia.org/wiki/Buffer_solution) around 7.4-7.6 by a balance of acid and alkaline.
   * acid is normally added as liquid hydrochloric (muriatic) acid.
   * alkaline is normally added as a sodium (bi-) carbonate powder.
 
