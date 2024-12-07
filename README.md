@@ -53,7 +53,7 @@ Also some pool chemicals and treatments work best when the pool water is around 
 
 Maintained as a [buffer](https://en.wikipedia.org/wiki/Buffer_solution) around 7.4-7.6 by a balance of acid and alkaline.
   * acid is normally added as liquid hydrochloric (muriatic) acid.
-  * alkaline is normally added as a sodium (bi-) carbonate powder.
+  * alkaline is normally added as a sodium (bi-)carbonate powder.
 
 Normally pH drifts up with environmental conditions so automated dosing of acid is desirable. 
 
